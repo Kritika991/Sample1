@@ -9,7 +9,7 @@ public class Assignment1 extends Testbase {
 		
 		// Create Testbase object
 		Testbase test = new Testbase();
-		test.openbrowser();
+		//test.openbrowser();
 				
 		//Launch Chrome browser using selenium webdriver
 		//System.setProperty("webdriver.chrome.driver","C:/Users/Kritika/Desktop/Selenium/Drivers/chromedriver.exe");
